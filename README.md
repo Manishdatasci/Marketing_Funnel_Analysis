@@ -3,6 +3,9 @@
 📊 Sales Conversion & Marketing Funnel Analysis:
 This project performs Exploratory Data Analysis (EDA) and Statistical Testing on a marketing dataset to uncover customer behavior patterns, conversion rates, and campaign effectiveness. Visualizations and insights are derived using Python libraries such as Pandas, NumPy, Seaborn, Matplotlib, Plotly, and SciPy. Additionally, MySQL Workbench was used for database queries, and results were presented via PowerPoint.
 
+
+**Independently executed the entire analysis workflow including data preprocessing, funnel metric calculation, exploratory visualizations, statistical checks, and final presentation deck for business teams.**
+
 🧰 Tools & Libraries Used
 Data Handling: pandas, numpy
 
